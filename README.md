@@ -4,7 +4,7 @@ Proyek UTS Dasar Pemrograman Semester Ganjil T.A. 2026/2027.
 
 ## Anggota Kelompok
 
-Kelompok: **[Nama Kelompok]**
+Kelompok: **Terserah**
 
 | No | Nama | NIM | KOM | Lab |
 |----|------|-----|-----|-----|
